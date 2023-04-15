@@ -15,7 +15,7 @@ I'm passionate about creating efficient, user-friendly web applications.
   - Furniture building techniques
   
 ⚡ Fun fact:
-  - Technically, to be called a "gargoyle", a statue must also function as a water spout. Otherwise it is known as a "grotesque".
+  - A statue must also function as a water spout in order to be called a "gargoyle", technically. Otherwise it is known as a "grotesque".
   
 📫 Email me at david@david-white.dev
 
