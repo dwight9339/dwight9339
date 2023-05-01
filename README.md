@@ -1,7 +1,6 @@
 ### Hey 👋, I'm David
 
-I'm a full-stack web developer <br />
-B.A. Computer Science - CU Boulder - 2018 <br />
+I'm a full-stack web developer <br >
 I'm passionate about creating efficient, user-friendly web applications.
 
 🔭 Projects and Contributions:
