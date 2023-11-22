@@ -8,14 +8,6 @@ I'm passionate about creating efficient, user-friendly web applications.
   - [Yubi](https://github.com/dwight9339/yubi): A Shopify plugin that helps shop owners better manage groups of unique products.
   - Contributor to [p5.js Web Editor](https://github.com/processing/p5.js-web-editor)
   
-🌱 I’m currently learning:
-  - C++
-  - AI/Machine Learning
-  - Furniture building techniques
-  
-⚡ Fun fact:
-  - A building-adorning statue must also function as a water spout in order to be called a "gargoyle". Otherwise it is known as a "grotesque".
-  
 📫 Email me at david@david-white.dev
 
 <!--
