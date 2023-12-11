@@ -4,6 +4,7 @@ I'm a full-stack web developer <br >
 I'm passionate about creating efficient, user-friendly web applications.
 
 🔭 Projects and Contributions:
+  - Full-stack developer for [Community Nostalgia Initiative](https://github.com/organizations/communitynostalgiaproject)
   - [Excursia](https://github.com/dwight9339/excursia): A travel itinerary app with activity suggestion and sharing features.
   - [Yubi](https://github.com/dwight9339/yubi): A Shopify plugin that helps shop owners better manage groups of unique products.
   - Contributor to [p5.js Web Editor](https://github.com/processing/p5.js-web-editor)
